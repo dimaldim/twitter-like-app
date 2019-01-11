@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="fr" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="menu.signin">
+                <source>Sign in</source>
+                <target>Вход</target>
+            </trans-unit>
+            <trans-unit id="menu.signout">
+                <source>Sign out</source>
+                <target>Изход</target>
+            </trans-unit>
+            <trans-unit id="menu.notifications">
+                <source>Notifications</source>
+                <target>Известия</target>
+            </trans-unit>
+            <trans-unit id="menu.add">
+                <source>Add new</source>
+                <target>Добавете</target>
+            </trans-unit>
+            <trans-unit id="post.recent">
+                <source>Recent updates</source>
+                <target>Mises à jour récentes</target>
+            </trans-unit>
+
+            <trans-unit id="register.terms">
+                <source>I agree to the terms of service</source>
+                <target>Съгласен съм с условията за ползване</target>
+            </trans-unit>
+
+            <trans-unit id="register.username">
+                <source>Username</source>
+                <target>Потребител</target>
+            </trans-unit>
+            <trans-unit id="register.password">
+                <source>Password</source>
+                <target>Парола</target>
+            </trans-unit>
+            <trans-unit id="register.repeated_password">
+                <source>Repated password</source>
+                <target>Повторете паролата</target>
+            </trans-unit>
+            <trans-unit id="register.full_name">
+                <source>Full name</source>
+                <target>Три имена</target>
+            </trans-unit>
+            <trans-unit id="register.register">
+                <source>Register</source>
+                <target>Регистрирай се!</target>
+            </trans-unit>
+
+            <trans-unit id="notifications.none">
+                <source>You have not notifications</source>
+                <target>Нямате известия</target>
+            </trans-unit>
+
+            <trans-unit id="email.registration">
+                <source>email.registration</source>
+                <target><![CDATA[<h3>Bienvenue dans l'application!</h3>
+<p>Bonjour %name%! Vous êtes inscrit dans l'application!</p>
+<p>Veuillez confirmer le compte en cliquant sur ce lien
+<a href="%confirm-link%">lien</a>.
+</p>
+<p>Pour vous connecter, accédez à <a href="%login-link%">page de connexion</a>.</p>
+<p>Merci!</p>]]></target>
+            </trans-unit>
+
+                        <trans-unit id="user.followers">
+                            <source>Followers</source>
+                            <target>{0} Няма последователи|{1} %count% последовател|]1,Inf[ %count% последователи</target>
+                        </trans-unit>
+
+
+            <trans-unit id="user.following">
+                <source>Following</source>
+                <target>{0} Не следи никой|]0,Inf[ Следи %count%</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
