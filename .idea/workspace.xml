@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -298,7 +298,7 @@
       <workItem from="1546948685850" duration="7387000" />
       <workItem from="1547017035807" duration="590000" />
       <workItem from="1547201352072" duration="3003000" />
-      <workItem from="1547208645256" duration="4033000" />
+      <workItem from="1547208645256" duration="4873000" />
     </task>
     <task id="LOCAL-00001" summary="Added User Preferences - Locale">
       <created>1546953995273</created>
@@ -318,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111693000" />
+    <option name="totallyTimeSpent" value="112533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -678,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
